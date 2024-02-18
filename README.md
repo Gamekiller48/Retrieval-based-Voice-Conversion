@@ -27,6 +27,10 @@ Make sure to activate your poetry environment using `poetry shell` before using 
 
 ### Standard Setup
 
+```sh
+poetry install
+```
+
 First, create a directory in your project. The `assets` folder will contain the models needed for inference and training, and the `result` folder will contain the results of the training.
 
 ```sh
