@@ -22,6 +22,8 @@ An easy-to-use Voice Conversion framework based on VITS.<br><br>
 
 ## Installation and usage
 
+RVC uses [poetry](https://github.com/python-poetry/poetry) for dependency management rather than pip. Make sure you have it installed.
+
 ### Standard Setup
 
 First, create a directory in your project. The `assets` folder will contain the models needed for inference and training, and the `result` folder will contain the results of the training.
