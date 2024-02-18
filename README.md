@@ -22,7 +22,8 @@ An easy-to-use Voice Conversion framework based on VITS.<br><br>
 
 ## Installation and usage
 
-RVC uses [poetry](https://github.com/python-poetry/poetry) for dependency management rather than pip. Make sure you have it installed.
+RVC uses [poetry](https://github.com/python-poetry/poetry) as package dependency resolver rather than pip. Make sure you have it installed.
+Make sure to activate your poetry environment using `poetry shell` before using any of the following commands.
 
 ### Standard Setup
 
